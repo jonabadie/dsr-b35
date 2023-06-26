@@ -1,3 +1,6 @@
+.history
+ignore_exemple.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
